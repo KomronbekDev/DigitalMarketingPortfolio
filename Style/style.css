@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #f2f2f2;
+    background-color: #e4e4e4;
     overflow-x: hidden !important;
 }
 .container{
@@ -44,7 +44,7 @@ nav{
     position: fixed;
     width: 100%;
     top: 0;
-    background-color: #f2f2f2;
+    background-color: #e4e4e4;
     height: 70px;
 }
 .navButton{
@@ -54,7 +54,7 @@ nav{
     background: #0057FF;
     border-radius: 30px;
     border: none;
-    color: #f2f2f2;
+    color: #e4e4e4;
 }
 .mainContentOne{
     display: flex;
@@ -106,7 +106,7 @@ nav{
     background: #0057FF;
     border-radius: 30px;
     border: none;
-    color: #f2f2f2;
+    color: #e4e4e4;
 }
 main{
     margin-top: 100px;
