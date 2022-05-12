@@ -20,7 +20,7 @@ sr.reveal('.profileBox img', {
     origin: 'left'
 })
 sr.reveal('.profileOne h3', {
-    delay: 400,
+    delay: 300,
     distance: '200px',
     origin: 'left'
 })
@@ -51,6 +51,46 @@ sr.reveal('.mainContentTwo img', {
     distance: '200px',
 })
 sr.reveal('.mainContentTwo button', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.contentThreeForm ', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.contentThree ', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.mainContentFour img ', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.contentFour ', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.maincontentSkils ', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.maincontentBuyTicked ', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.mainContentSeven ', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.mainContentEight h5 ', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.mainContentEight h1 ', {
+    delay: 300,
+    distance: '200px',
+})
+sr.reveal('.contentEight ', {
     delay: 300,
     distance: '200px',
 })

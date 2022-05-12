@@ -307,3 +307,274 @@ main{
     text-transform: uppercase; 
     color: #000000;
 }
+.box{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    padding-bottom: 0 !important;
+}
+.maincontentSkils h1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px; 
+    letter-spacing: 1px;
+    text-transform: uppercase; 
+    color: #000000;
+}
+.maincontentSkils p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px; 
+    color: #000000;
+    width: 500px;
+    padding: 40px 0 10px 0;
+}
+.maincontentSkils h3{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px; 
+    text-transform: uppercase; 
+    color: #000000;
+}
+.maincontentSkils div{
+    padding: 20px 0 ;
+}
+.maincontentBuyTicked {
+    text-align: center;    
+    box-shadow: 0px 8px 28px rgb(83 83 83 / 15%);
+    border-radius: 15px;
+}
+.maincontentBuyTicked ul{
+    list-style-type: none;
+}
+.maincontentBuyTicked h1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px; 
+    text-transform: uppercase; 
+    color: #000000;
+    padding: 30px 0;
+}
+.maincontentBuyTicked h4{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px; 
+    text-transform: uppercase; 
+    color: #000000;
+    padding-bottom: 30px;
+}
+.maincontentBuyTicked ul li{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px; 
+    text-transform: uppercase; 
+    color: #000000;
+    text-align: left;
+    padding: 10px 100px;
+}
+.mainContentSeven {
+    text-align: center;
+    margin-left: 5%;
+    margin-bottom: 150px !important;
+}
+.mainContentSeven h5{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px; 
+    text-align: center;
+    letter-spacing: 0.5px;
+    text-transform: uppercase; 
+    color: #0057FF;
+}
+.mainContentSeven p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px; 
+    text-align: center; 
+    color: #000000;
+    padding: 20px 0 30px 0;
+}
+.mainContentSeven button{
+    background: #0057FF;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+    color: #e4e4e4;
+}
+.mainContentSeven ul{
+    display: flex;
+    list-style-type: none;
+    margin-top: 150px;
+}
+.mainContentSeven ul li{
+    padding: 0 20px;
+}
+.mainContentEight{
+    text-align: center;
+}
+.contentEightH5{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px; 
+    text-align: center;
+    letter-spacing: 0.5px;
+    text-transform: uppercase; 
+    color: #0057FF;
+}
+.mainContentEight h1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px; 
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase; 
+    color: #000000;
+    margin-bottom: 100px;
+}
+.contentEight{
+    display: flex;
+}
+.contentEightUl ul{
+    list-style-type: none;
+}
+.contentEightUl ul li{
+    display: flex;
+    padding: 20px;
+}
+.contentEightUl ul li h5{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px; 
+    text-transform: uppercase; 
+    color: #0057FF;
+    padding: 10px 0;
+}
+.contentEightUl ul li h3{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px; 
+    text-transform: uppercase; 
+    color: #000000;
+}
+.contentEightUl ul li p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px; 
+    color: #000000; 
+}
+.contentEightImg{
+    background-image: url(../img/contentEightbackground\ \(3\).png);
+    background-size: 610px;
+    background-repeat: no-repeat;
+}
+.contentEightImg h1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 50px; 
+    text-transform: uppercase; 
+    color: #000000;
+    padding-top: 400px;
+}
+.contentFooter , .contentFooterTwo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contentFooterH1 , .contentFooter ul , .iconFooter{
+    display: flex;
+}
+footer{
+    width: 100%;
+    height: 280px;
+    background-color: #111;
+    color: #e4e4e4;
+}
+.contentFooterH1 hr{
+    width: 1px;
+    margin-right: 10px ;
+    transform: rotate(180deg);
+    border-left: 1px solid #e4e4e4 ;
+    color: #e4e4e4;
+}
+.contentFooterH1 a{
+    text-decoration: none;
+}
+.oneH1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px; 
+    text-transform: uppercase; 
+    color: #999999;
+}
+.twoH1{
+    font-family: 'Oswald';
+    padding: 0 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 22px; 
+    text-transform: uppercase; 
+    color: #FFFFFF;
+}
+.contentFooter img{
+    margin-top: 60px;
+}
+.contentFooterTwo{
+    margin-top: 100px;
+}
+.iconFooter{
+    list-style-type: none;
+}
+.iconFooter li img{
+    padding: 10px;
+    border: 1px solid #e4e4e4;
+    border-radius: 400px;
+}
+.iconFooter li{
+    margin: 5px;
+}
+.contentFooter ul li{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px; 
+    letter-spacing: 1px;
+    text-transform: uppercase; 
+    list-style-type: none;
+}
+.contentFooter ul li a{
+    text-decoration: none;
+    padding: 0 10px;
+    color: #FFFFFF !important; 
+}
