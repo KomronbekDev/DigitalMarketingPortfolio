@@ -47,6 +47,7 @@ nav{
     top: 0;
     background-color: #e4e4e4;
     height: 70px;
+    z-index: 100;
 }
 .navButton{
     padding: 10px 20px;

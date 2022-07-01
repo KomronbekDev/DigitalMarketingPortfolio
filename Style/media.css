@@ -1,83 +1,24 @@
 @media (max-width: 767px){
     nav{
-        width: 28% !important;
-        left: -5px;
+        width: 75%;
+        position: fixed !important;
+        top: 0;
+        background-color: #e4e4e4;
+        height: 120px;
+        z-index: 100;
     }
-    .navList , .navButton{
-        display: none !important;
+    .container{
+        width: 90%;
     }
-    .navContentOne img{
-        width: 100px;
-        padding: 5px 0 0 10px;
+    .navShadow{
+        margin-left: -1%;
+        top: 120px;
     }
-    .container {
-        width: 100%;
-        margin: 0 auto;
-        margin: 5px;
-    }
-    .contentOneH1{
-        font-size: 25px;
-        width: 80%;
-        line-height: 30px;
-        padding-bottom: 20px;
-    }
-    .mainBackground{
+    .navList, .navButton{
         display: none;
     }
-    .contentOneP{
-        font-size: 15px;
-        width: 80%;
-    }
-    .profileBox img{
-        width: 40px;
+    .navLogo{
+        width: 100px;
         height: 40px;
-    }
-    .profileOne h3{
-        font-size: 15px;
-        margin-top: 0;
-    }
-    .profileOne ul li img{
-        width: 20px;
-        height: 20px;
-    }
-    .contentOneButton{
-        font-size: 15px;
-        padding: 5px 10px;
-    }
-    .mainContentTwo h3{
-        text-align: center;
-        width: 200px;
-        margin-left: 50px;
-    }
-    .mainContentTwo h1{
-        font-size: 20px;
-        line-height: 20px;
-        width: 290px;
-    }
-    .mainContentTwo p{
-        margin: 20px 0 0 40px; 
-    }
-    .mainContentTwo img{
-        width: 300px;
-        margin-top: 40px;
-    }
-    .mainContentTwo button{
-        font-size: 10px !important;
-        padding: 5px 10px;
-        margin: 10px 0 0 100px;
-    }
-    .mainContentThree , .contentThreeUl, .input{
-        flex-direction: column;
-    }
-    .contentThreeH1{
-        font-size: 20px;
-        line-height: 20px;
-        width: 290px;
-        text-align: center;
-        margin-bottom: 20px;
-    }
-    .contentThreeP{
-        text-align: center;
-        width: 290px;
     }
 }
